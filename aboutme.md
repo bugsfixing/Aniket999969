@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Aniket999969
-- 👀 I’m interested in Newtorking
-- 🌱 I’m currently learning C JS and Web Devlopment on WHMCS
-- 💞️ I Love you all!!
-- 📫 CTO/CEO of temperhosting.co
+
